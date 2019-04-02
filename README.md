@@ -4,8 +4,8 @@ Live-Chat
 ## Introduction:
 * This is a chat application which allows user to connect and chat with each other.
 * User's can open multiple tabs to chat with each other.
-* All the chat messages where saved using MongoDB database.
-* New message will automatically shows up on the screen.   
+* All the chat messages were saved using MongoDB database.
+* Old & new messages will automatically shows up on the screen.   
 
 ## Info:
 1. Languages used: HTML5, BootStrap, ES6, Node.js ExpressJS, Socket.io
